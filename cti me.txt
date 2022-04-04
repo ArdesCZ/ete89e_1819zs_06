@@ -1,0 +1,9 @@
+do pracovni doby ukladat do tabulky taky zaèátek a konec pracovní doby 
+
+do dochazka vkladat dùvod ukonèení ze selectoru 
+
+doba pracovní doby odeètem od konce a zaèátku pracovní doby
+
+po kliknutí na zaèátek pracovní doby vložit èas do tabulky docházka, zapnout èasovaè a zneviditelnit tlaèítko zaèátek,
+po kliknutí na konec pracovní doby uložit èas konce pracovní doby, poèet odpracovaných hodin viz predtim, ukonèení èasovaèe, 
+zviditelnit zaèátek

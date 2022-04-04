@@ -1,0 +1,86 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+a.btn.disabled {
+    pointer-events: none;
+}
+a.btn.disabled {
+    background-color: #bababa;
+    border-color: #9b9b9b;
+}
+.nav-item.login {
+    margin-left: 30px;
+}
+@media (max-width: 992px) {
+    .nav-item.login {
+        margin-left: 0px;
+    }
+}
+header.masthead {
+    position: relative;
+}
+header.masthead .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #212529;
+    opacity: 0.8;
+}
+header.masthead .site-heading {
+    padding: 200px 0px;
+    color: white;
+    text-align: center;
+}
+header.masthead .site-heading h1 {
+    font-weight: 800;
+}
+header.masthead .site-heading .subheading {
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 1.1;
+    display: block;
+    margin: 10px 0 0;
+}
+.container.content {
+    margin-bottom: 40px;
+}
+.events-search-form {
+    margin: 0px 0px 30px 0px;
+}
+.input-group-btn .btn.btn-default {
+    border-color: #ccc;
+}
+.input-group-btn .btn.btn-default.focus,
+.input-group-btn .btn.btn-default:focus {
+    border-color: #8c8c8c;
+    background-color: #e6e6e6;
+    color: #333;
+}
+.events-list .portfolio-item {
+    margin-bottom: 30px;
+}
+.events-list .card-date{
+    margin-bottom: 10px;
+}
+.events-list .card-footer{
+    border: none;
+    background-color: #fff;
+}
+.event-detail {
+    margin-bottom: 20px;
+}

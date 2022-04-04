@@ -1,0 +1,1 @@
+index, conf, zamestnanci,admin, phpMailer, css, img, vendor

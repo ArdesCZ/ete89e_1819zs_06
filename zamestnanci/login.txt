@@ -1,0 +1,8 @@
+Zamestnanec: Uziv jm:kraus	
+		  heslo:123
+
+Vedouci: Uziv jm:mala
+	heslo:321
+
+Admin: Uziv jm: superAdmin
+	heslo: BfLmPsVz
